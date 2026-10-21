@@ -162,7 +162,7 @@ body {
 .btn-approve:hover {
   background: #0284c7;
 }
-.auth-signed-in {
+.auth-card-header-text p.auth-signed-in {
   margin-top: 6px;
   font-size: 13px;
   color: #0284c7;
